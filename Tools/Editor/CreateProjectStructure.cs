@@ -7,7 +7,7 @@ using static UnityEngine.Application;
 using static System.IO.Directory;
 using static System.IO.Path;
 
-namespace BakewareSoftwareTools
+namespace BakewareSoftware
 {
     public static class ToolsMenu
     {
